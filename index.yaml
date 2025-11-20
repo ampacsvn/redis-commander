@@ -1,0 +1,23 @@
+apiVersion: v1
+entries:
+  redis-commander:
+  - apiVersion: v2
+    appVersion: latest
+    created: "2025-11-20T23:13:24.188484+07:00"
+    description: A Helm chart for redis-commander
+    digest: 0ea5e6956b7da3da2ab29af0ecda42a7f2dff16386f2084ee69cddb4690e9e21
+    home: https://joeferner.github.io/redis-commander
+    keywords:
+    - redis
+    maintainers:
+    - name: Joe Ferner
+      url: https://github.com/joeferner
+    - name: Stefan Seide
+    name: redis-commander
+    sources:
+    - https://github.com/joeferner/redis-commander
+    type: application
+    urls:
+    - redis-commander-0.9.1.tgz
+    version: 0.9.1
+generated: "2025-11-20T23:13:24.188053+07:00"
